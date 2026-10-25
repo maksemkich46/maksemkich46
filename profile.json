@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "maksemkich46",
-  "seed": "#1ED91E",
+  "seed": "#3C1610",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -116,12 +116,12 @@
         "url": "https://t.me/tovarCuHuX"
       },
       {
-        "icon": "brand:tiktok",
-        "url": "https://tiktok.com/@kot_lvovich"
-      },
-      {
         "icon": "brand:vk",
         "url": "https://vk.ru/arkich3"
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://tiktok.com/@kot_lvovich"
       },
       {
         "icon": "brand:youtube",
