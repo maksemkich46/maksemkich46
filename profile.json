@@ -21,17 +21,13 @@
   "hero": {
     "greeting": "Привет, я",
     "name": "",
-    "subtitle": "Делаю интерфейсы и небольшие полезные утилиты.",
+    "subtitle": "Помешан на транспорте, но тут не только о нём)",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Земля"
-      },
-      {
-        "icon": "code",
-        "label": "TypeScript · Python"
+        "label": "г. Курск"
       }
     ]
   },
@@ -40,15 +36,11 @@
     "items": [
       {
         "icon": "person",
-        "label": "Разработчик и дизайнер"
-      },
-      {
-        "icon": "code",
-        "label": "В основном фронтенд"
+        "label": "Вайбкодер (ну, честно)"
       },
       {
         "icon": "palette",
-        "label": "Люблю Material Design"
+        "label": "Люблю Material Design и Liquid Glass"
       }
     ]
   },
@@ -59,26 +51,22 @@
         "title": "Main",
         "items": [
           {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
+            "icon": "brand:html5",
+            "label": "HTML"
           },
           {
-            "icon": "brand:react",
-            "label": "React"
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
           },
           {
-            "icon": "brand:python",
-            "label": "Python"
+            "icon": "brand:moscowmetro",
+            "label": "Мосметро не считается"
           }
         ]
       },
       {
         "title": "Tools",
         "items": [
-          {
-            "icon": "brand:git",
-            "label": "Git"
-          },
           {
             "icon": "brand:figma",
             "label": "Figma"
@@ -92,8 +80,14 @@
     ]
   },
   "projects": {
-    "source": "pinned",
-    "repos": [],
+    "source": "manual",
+    "repos": [
+      "App",
+      "rasp_solntstrans.github.io",
+      "Fontonica",
+      "AppFtca",
+      "Obo_mne"
+    ],
     "overrides": {},
     "empty": "Описания пока нет.",
     "fork": "Fork"
@@ -119,15 +113,19 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "url": "https://t.me/tovarCuHuX"
       },
       {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
+        "icon": "brand:tiktok",
+        "url": "https://tiktok.com/@kot_lvovich"
       },
       {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "icon": "brand:vk",
+        "url": "https://vk.ru/arkich3"
+      },
+      {
+        "icon": "brand:youtube",
+        "url": "https://youtube.com/@izmoeyzishni"
       }
     ],
     "variant": "chip",
