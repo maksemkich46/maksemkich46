@@ -8,10 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Стек"></picture>
 
-<a href="https://github.com/maksemkich46/App"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-app-dark.svg"><img src="assets/project-app-light.svg" width="49%" alt="App"></picture></a>&nbsp;<a href="https://github.com/maksemkich46/rasp_solntstrans.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-rasp-solntstrans-github-io-dark.svg"><img src="assets/project-rasp-solntstrans-github-io-light.svg" width="49%" alt="rasp_solntstrans.github.io"></picture></a>
-
-<a href="https://github.com/maksemkich46/Fontonica"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-fontonica-dark.svg"><img src="assets/project-fontonica-light.svg" width="49%" alt="Fontonica"></picture></a>&nbsp;<a href="https://github.com/maksemkich46/AppFtca"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-appftca-dark.svg"><img src="assets/project-appftca-light.svg" width="49%" alt="AppFtca"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="Активность на GitHub"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Серия"></picture>
