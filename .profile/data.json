@@ -1,13 +1,13 @@
 {
- "key": "fb1b5253",
+ "key": "fbf79bb0",
  "stars": 0,
- "contributions": 113,
+ "contributions": 114,
  "repos": 6,
  "followers": 0,
  "languages": [
   [
    "HTML",
-   518424
+   534189
   ],
   [
    "Kotlin",
@@ -96,7 +96,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 3,
     "day": 2,
     "today": true
    },
@@ -161,7 +161,7 @@
   {
    "name": "rasp_solntstrans.github.io",
    "url": "https://github.com/maksemkich46/rasp_solntstrans.github.io",
-   "text": "",
+   "text": "Тут располагается хостинг для сайта СолнВымАвтоТранс. Сама готовая ссылка на строке ниже ⏬",
    "fork": false,
    "stars": 0,
    "language": "HTML",
